@@ -57,3 +57,4 @@ created a function for continue quiz
 defined all my objects
 created a function for restart quiz button
 created a function for quite quiz button
+source https://www.youtube.com/watch?v=pQr4O1OITJo
